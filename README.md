@@ -10,3 +10,6 @@
 
 ## For Icons
 - https://fontawesome.com/
+
+## Hosted URL
+- https://kimage-gallery.netlify.app/
