@@ -1,6 +1,6 @@
 # Responsive Image Gallery Project
 
-## Technoogies Used
+## Technologies Used
 - HTML
 - CSS
 - LightBox Library
